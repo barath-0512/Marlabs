@@ -29,12 +29,14 @@
 }
 table { border-collapse:collapse; width:70%}
 
-.App-Status-bar{
-  padding: 13px;
-  border: 1px solid;
-  margin-left: 7rem;
+.App-Status-bar {
+  border: 1px solid #333;
   z-index: 999;
-  position: fixed;
+  background-color: white;
+  margin-left: 10px;
+  text-align: center;
+  font-size: 14px;
+  margin-right: 13px;
 }
 
 
